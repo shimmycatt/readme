@@ -1,21 +1,25 @@
-![Image](https://github.com/user-attachments/assets/e46d6618-03e5-4df7-b555-bb2463a87877)
+<img width="736" height="414" alt="Image" src="https://github.com/user-attachments/assets/dc2a0c24-d32e-4254-a8b6-953fad68ca34" />
 
-$\Large{\color{#B49506}{ABOUT ME}}$
+$\Large{\color{#C6838F}{ABOUT ME}}$
 
-![Image](https://github.com/user-attachments/assets/e100acb9-5de7-4de1-a481-2b640abaa772)
+<img width="620" height="15" alt="Image" src="https://github.com/user-attachments/assets/1c679e7f-7fc4-438d-a9d1-88c0632dd1a0" />
 
-$\color{#D89308}{\textsf{hihi im ellis, known as fischer, or...... munchonpoo.... on other platforms!}}$
-![Image](https://github.com/user-attachments/assets/1fc8f2cc-1bbd-4ffb-87c4-1c8df0058fe0)
-$\color{#A67306}{\textsf{he / it}}$
+$\color{#C6838F}{\textsf{hello i'm shrimp, also known as shimmy or ivan }}$
 
-![Image](https://github.com/user-attachments/assets/e0fffdbd-0496-4b4c-b4c0-bfa78155b1e7)
-$\color{#A67306}{\textsf{i lovelovelovelove msi, avenged sevenfold and maebi}}$
+$\color{#C6838F}{\textsf{it // him}}$
 
-![Image](https://github.com/user-attachments/assets/e914f9dc-17e0-4064-a83d-59f641ee2b49)
-$\color{#A67306}{\textsf{ivan, clockwork and brandon fictkin...... obviously}}$
+<img width="101" height="57" alt="Image" src="https://github.com/user-attachments/assets/92ac1ea4-3680-4298-946e-6142d790e3ea" />
+
+$\color{#C6838F}{\textsf{INTERESTS:}}$
+
+$\color{#C6838F}{\textsf{hetalia, demonology, minesweeper, fnaf}}$
+
+$\color{#C6838F}{\textsf{italy-hetalia + ivan-badthings fictkin}}$
 
 
-$\color{#A67306}{\textsf{dni THOSE type of people.}}$
-![Image](https://github.com/user-attachments/assets/cd1f828e-3195-4d6e-9fbb-1fd090589019)
+$\color{#C6838F}{\textsf{DNI:}}$
+$\color{#C6838F}{\textsf{pro+darkshippers, people who joke about serious events}}$
 
-$\color{#D89308}{\textsf{"i feel so funny these days ,, i'd rather sleep than stay awake . "}}$
+$\color{#C6838F}{\textsf{"I say that I'll get better, I say I'm trying to quit. But if you know me, you would know I'm faking it."}}$
+
+$\color{#C6838F}{\textsf{....................... Audit -- WeevilDoing}}$
